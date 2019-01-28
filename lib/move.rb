@@ -12,7 +12,7 @@ end
 
 def move(board, peice, character)
   gets.strip = board
-  
+
   character = X
-  
+
 end
